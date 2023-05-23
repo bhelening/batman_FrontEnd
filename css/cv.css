@@ -1,0 +1,73 @@
+
+header{
+    text-align: center;
+    background-color: #E6E6E6;
+}
+
+.inicio {
+    background-color: #E6E6E6;
+  }
+  .mifoto{
+    width: 100px;
+
+  }
+  .principal{
+    margin-bottom: 100px;
+    background-color: #C4C4C4;
+  }
+  
+  
+  h1 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+    text-transform: uppercase;
+    color: #005677;
+    letter-spacing: 5px;
+
+  }
+  .subtitulos{
+    background-color: #C4C4C4;
+  }
+  h2{
+    color: #005677;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    font-size: 17px;
+    padding-left: 15px;
+  }
+  .temas {
+    font-style: italic;
+    font-weight: bold;  
+  }
+  .años {
+    font-weight: bold;
+    padding-left: 25px;
+  }
+  .p1 {
+    margin-left: 145px;
+  }
+  .p2 {
+    margin-left: 105px;
+  }
+  .p3 {
+    margin-left: 145px;
+  }
+  
+  footer {
+    background-color: #005677;
+    text-align: center;
+    color: #FFFFFF;
+    font-style: italic;
+    margin-top: 100px;
+  }
+  
+  .name {
+    margin-right: 10px;
+    margin-bottom: 2px;
+  }
+ img{
+    margin-top: 7px;
+    margin-right: 7px;
+    width: 15px;
+ }

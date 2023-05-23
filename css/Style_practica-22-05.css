@@ -1,0 +1,32 @@
+.batman { text-align: center;
+}
+
+.Titulo_p {
+    background-color: #C4C4C4; letter-spacing: 5px; text-align: center; color: #005677;
+}
+
+.separacion {
+    height: 75px;
+}
+.subtitulo {
+    background-color: #C4C4C4;
+    letter-spacing: 5px;
+    color: #005677;
+}
+
+.text-negrita {
+    font-weight: bold; font-style: italic;
+}
+
+.text-parrafo {
+    font-weight: bold; padding-left: 20px;
+}
+
+.footer {
+    background-color: #005677; text-align: center; color: white; font-weight: bold;
+    height: 45px; align-items: center;
+}
+
+.imagen-footer {
+    padding-left: 15px; vertical-align: middle;;
+}
