@@ -1,4 +1,16 @@
-
+@font-face {
+  font-family: 'Cabin';
+  /* Antes de descargar el archivo, le decimos al buscador
+  que intente buscar en local la fuente con nombre
+  Cabin, Cabin Regular o Cabin-Regular */
+  src: local('Cabin'),
+       local('Cabin Regular'),
+       local('Cabin-Regular'),
+       url(cabin-regular.woff) format('woff');
+}
+body{
+  font-family:Cabin;
+}
 header{
     text-align: center;
     background-color: #E6E6E6;
